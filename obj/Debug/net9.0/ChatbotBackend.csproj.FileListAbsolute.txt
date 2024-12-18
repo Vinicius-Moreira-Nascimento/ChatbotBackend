@@ -154,3 +154,4 @@ C:\Users\ariet\ChatbotBackend\obj\Debug\net9.0\refint\ChatbotBackend.dll
 C:\Users\ariet\ChatbotBackend\obj\Debug\net9.0\ChatbotBackend.pdb
 C:\Users\ariet\ChatbotBackend\obj\Debug\net9.0\ChatbotBackend.genruntimeconfig.cache
 C:\Users\ariet\ChatbotBackend\obj\Debug\net9.0\ref\ChatbotBackend.dll
+C:\Users\ariet\ChatbotBackend\obj\Debug\net9.0\ChatbotBackend.sourcelink.json
